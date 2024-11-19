@@ -1,0 +1,3 @@
+[submodule "web-dev-city/shopping-list"]
+	path = web-dev-city/shopping-list
+	url = https://github.com/sarembot/shopping-list.git
