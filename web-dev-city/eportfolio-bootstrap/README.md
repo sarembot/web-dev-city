@@ -1,0 +1,1 @@
+This was the final project in my Web Development Fundamentals class at Camosun College. The purpose was to learn the Bootstrap Framework by re-creating an ePortfolio that we had previously made, using Bootstrap instead of just vanilla HTML/CSS. 
